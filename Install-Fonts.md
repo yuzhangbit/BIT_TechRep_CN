@@ -5,7 +5,7 @@
 ```
 mkdir winfonts
 ```
-3. copy all the fonts found in step 1to winfonts folder 
+3. copy all the fonts found in step 1 to winfonts folder 
 4. installation
 ```
 sudo cp winfonts /usr/share/fonts/

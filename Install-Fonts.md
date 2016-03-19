@@ -1,14 +1,14 @@
 ## Installation of Windows Fonts
 
-###find SimSun,SimfdsfiiHei, KaiTi, FangSong, SimFang etc. fonts needed by ctex
-###create a folder named "winfonts" in ${HOME} forder
+(1) find SimSun,SimfdsfiiHei, KaiTi, FangSong, SimFang etc. fonts needed by ctex
+(2) create a folder named "winfonts" in ${HOME} forder
 
 ```
 mkdir winfonts
 ```
 
-###copy all the fonts found in step 1 to winfonts folder 
-###installation
+(3) copy all the fonts found in step 1 to winfonts folder 
+(4) installation
 
 ```
 sudo cp winfonts /usr/share/fonts/
@@ -19,4 +19,4 @@ sudo mkfontdir
 sudo fc-cache -fv
 ```
 
-###Done!
+(5) Done!

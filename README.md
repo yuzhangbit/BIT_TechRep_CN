@@ -4,4 +4,4 @@
 
 A technique report latex template for BIT
 
-[Fonts Installation](Install-Fonts)
+[Fonts Installation](Install-Fonts.md)

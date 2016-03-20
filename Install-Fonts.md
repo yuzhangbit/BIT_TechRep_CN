@@ -1,6 +1,6 @@
 ## Installation of Windows Fonts
 
-* find SimSun,SimfdsfiiHei, KaiTi, FangSong, SimFang etc. fonts needed by ctex
+* find SimSun,SimfdsfiiHei, KaiTi, FangSong, SimFang etc. fonts(TTF TTC format) needed by ctex in windows system
 
 * create a folder named "winfonts" in ${HOME} forder
 ```
